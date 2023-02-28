@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(0, 157, 255);
+    font-family: 'Dosis', sans-serif;
+}
+
+.cabecalho{
+    font-size: 20px;
+    display: flexbox;
+    text-align: center;
+    padding: 20px;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    font-size: 15px;
+}
+
+.link{
+    padding: 8px;
+}
